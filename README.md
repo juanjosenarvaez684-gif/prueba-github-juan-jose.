@@ -9,7 +9,7 @@ Durante el curso de git y github aprendi lo siguientes temas:
 
 Puedes consultar más información y aprender nuevas tecnologías en (https://learn.microsoft.com)
  
- Comandos básicos de Git que aprendí:
+ Comandos básicos de Git que logre aprender:
  
 -git init
 -git add
